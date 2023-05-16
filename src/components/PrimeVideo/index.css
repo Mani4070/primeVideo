@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.container {
+  background-color: #000000;
+  height: 100vh;
+}
+
+.image {
+  height: 200px;
+  padding: 30px;
+}
+
+.slider {
+  height: 38vh;
+  width: 100vw;
+}

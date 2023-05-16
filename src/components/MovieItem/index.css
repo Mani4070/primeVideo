@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.popup-content {
+  background-color: #ffffff;
+}
+
+.button-container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.button {
+  background: transparent;
+  border-color: #ffffff;
+  border-width: 0px;
+  border: none;
+  height: 30px;
+  width: 30px;
+  outline: none;
+  cursor: pointer;
+}
+
+.player {
+  padding: 30px;
+}
